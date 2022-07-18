@@ -1,0 +1,71 @@
+[
+  {
+    "Heading": "Clients",
+    "headingDescription": [
+      {
+        "Description": "A portfolio is all about making an impression. I wanted a solution with great templates so that people can find my work easily and quickly.",
+        "Image": "https://zyro.com/cdn-cgi/image/w=420,q=85,f=auto/images/testimonials/jag-logo.png",
+        "Tag": "Clients",
+        "Name": "Juan Antonio Garcia"
+      },
+      {
+        "Description": "Zyro really empowers new businesses because you don’t need a lot of time, money, or experience to make it work. You can invest that straight back into your business.",
+        "Image": "https://zyro.com/cdn-cgi/image/w=420,q=85,f=auto/images/testimonials/tati-logo.png",
+        "Tag": "Clients",
+        "Name": "Tati Uribe"
+      },
+      {
+        "Description": "I needed a simple website, very fast, to get found online and start my business. Now, I’m ready to take the next step with Zyro and create an online store.",
+        "Image": "https://zyro.com/cdn-cgi/image/w=420,q=85,f=auto/images/testimonials/baltic-blades-logo.png",
+        "Tag": "Clients",
+        "Name": "Paulius Jančiukas"
+      }
+    ]
+  },
+  {
+    "Heading": "Tech Experts",
+    "headingDescription": [
+      {
+        "Description": "You don’t have to worry about learning complex features. You can build your website faster since most of the work is already done for you.",
+        "Image": "https://zyro.com/cdn-cgi/image/w=420,q=85,f=auto/images/testimonials/techradar-logo.png",
+        "Tag": "Tech Experts",
+        "Name": "TechRadar"
+      },
+      {
+        "Description": "DIY website builder Zyro has an excellent interface and some unique and powerful design tools that give you a lot of control over how your online presence looks and functions.",
+        "Image": "https://zyro.com/cdn-cgi/image/w=420,q=85,f=auto/images/testimonials/pcmag-logo.png",
+        "Tag": "Tech Experts",
+        "Name": "PCMag"
+      },
+      {
+        "Description": "No coding or design skills are needed, the builder will do all of the hard work for you. It’s apparent just when you first open the platform – everything is presented in a clean and minimalistic fashion.",
+        "Image": "https://zyro.com/cdn-cgi/image/w=420,q=85,f=auto/images/testimonials/best-builder-logo.png",
+        "Tag": "Tech Experts",
+        "Name": "My Best Website Builder"
+      }
+    ]
+  },
+  {
+    "Heading": "Trustpilot",
+    "headingDescription": [
+      {
+        "Description": "Powerful and great web site design tool, hosting is included. It does not require any kind of coding skills, and is hassle-free. It is affordable. It's very easy to create and publish web pages/sites.",
+        "Image": "https://zyro.com/cdn-cgi/image/w=420,q=85,f=auto/images/testimonials/trustpilot.png",
+        "Tag": "Trustpilot",
+        "Name": "Ali Rıza Yoltaş"
+      },
+      {
+        "Description": "Easy to use, great value. Fast response to support questions. Highly recommended.",
+        "Image": "https://zyro.com/cdn-cgi/image/w=420,q=85,f=auto/images/testimonials/trustpilot.png",
+        "Tag": "Trustpilot",
+        "Name": "Neil J Todd"
+      },
+      {
+        "Description": "The best customer service experience ever! They should be teaching this to other companies. Having a real person present any time I run into a roadblock creates a lot of trust and security. Love it! 1000% positive!",
+        "Image": "https://zyro.com/cdn-cgi/image/w=420,q=85,f=auto/images/testimonials/trustpilot.png",
+        "Tag": "Trustpilot",
+        "Name": "Zsuzsanna Bekesi Smith"
+      }
+    ]
+  }
+]
